@@ -1,1 +1,1 @@
-# ndaedzonblog.githu.io
+# ndaedzonblog.github.io
